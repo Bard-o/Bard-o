@@ -1,6 +1,6 @@
 ## Hey There!  
 
-Hello! I'm **Simon**, an engineering student based in **Pereira (Colombia)**.
+engineering student based in **Pereira (Colombia)**.
 - *(Systems and Computation Engineering at Universidad Tecnológica de Pereira)*
 
 I'm currently **looking for a job**, but in the meantime I'm developing whatever I find fun or useful.
