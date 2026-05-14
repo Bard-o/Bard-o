@@ -13,11 +13,11 @@ I hope you'll find these tools fun and useful as well. 🙂
 I’m not tied to any single tech stack. Since I usually work solo, I choose the most effective tool for each problem. 🔬
 
 <p align="center">
-  <img src="icons/React.png" alt="React" width="80" />
-  <img src="icons/TypeScript.png" alt="TypeScript" width="80" />
-  <img src="icons/Tailwindcss.png" alt="Tailwind CSS" width="80" />
-  <img src="icons/Python.png" alt="Python" width="80" />
-  <img src="icons/PHP.png" alt="PHP" width="80" />
+  <img src="icons/React.png" alt="React" width="120" />
+  <img src="icons/TypeScript.png" alt="TypeScript" width="120" />
+  <img src="icons/Tailwindcss.png" alt="Tailwind CSS" width="120" />
+  <img src="icons/Python.png" alt="Python" width="120" />
+  <img src="icons/PHP.png" alt="PHP" width="120" />
 </p>
 
 ---
