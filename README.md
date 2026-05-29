@@ -18,6 +18,7 @@ I’m not tied to any single tech stack. Since I usually work solo, I choose the
   <img src="icons/Tailwindcss.png" alt="Tailwind CSS" width="120" />
   <img src="icons/Python.png" alt="Python" width="120" />
   <img src="icons/PHP.png" alt="PHP" width="120" />
+  <img src="icons/Golang.png" alt="PHP" width="120" />
 </p>
 
 ---
