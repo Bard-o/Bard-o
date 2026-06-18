@@ -32,9 +32,7 @@ Aside from that, I'm open to learning anything — I'm curious by nature. 🔍
 
 ### What are you currently working on?
 
-Right now I'm building an app that **scrapes job offers** from different places and turns them into a **dashboard with market statistics**.
-
-After that, I'll work on a **metronome/pomodoro timer** that keeps a record of my practice sessions. ⏱️🎶
+These past week i've been doing a bunch of stuff that are currently on my pinned projects, aside from that i've been studying computer grafichs to see if i like that topic
 
 ---
 
